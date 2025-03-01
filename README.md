@@ -1,10 +1,10 @@
 IMPORTANT POINTS
 
-+The content of the project is explained in the file named TermProject2.pdf.
+- The content of the project is explained in the file named TermProject2.pdf.
 
-+The results obtained from the project are reported in the file named PR_ID2643740.pdf.
+- The results obtained from the project are reported in the file named PR_ID2643740.pdf.
 
-+Make sure everything is in one folder. Remember, this is an object-oriented programming project, it will not work if all the files are not in the same folder.
+- Make sure everything is in one folder. Remember, this is an object-oriented programming project, it will not work if all the files are not in the same folder.
 
 Introduction of the Project
 
